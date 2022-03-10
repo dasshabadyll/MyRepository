@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\ЛР1УП\ЛР1УП\bin\Debug\ЛР1УП.exe.config
+C:\Users\Lenovo\source\repos\ЛР1УП\ЛР1УП\bin\Debug\ЛР1УП.exe
+C:\Users\Lenovo\source\repos\ЛР1УП\ЛР1УП\bin\Debug\ЛР1УП.pdb
+C:\Users\Lenovo\source\repos\ЛР1УП\ЛР1УП\obj\Debug\ЛР1УП.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ЛР1УП\ЛР1УП\obj\Debug\ЛР1УП.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ЛР1УП\ЛР1УП\obj\Debug\ЛР1УП.exe
+C:\Users\Lenovo\source\repos\ЛР1УП\ЛР1УП\obj\Debug\ЛР1УП.pdb
